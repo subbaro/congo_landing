@@ -427,3 +427,25 @@ img {
 .img-circle {
   border-radius: 50%;
 }
+
+/* new album class */
+.album {
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.album img {
+    margin: 0 auto;
+    /*border: 0px solid #fff;*/
+}
+
+.album h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+}
+
+.album p {
+    margin-top: 0;
+}
+
